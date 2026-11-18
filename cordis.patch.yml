@@ -1,0 +1,4 @@
+# @deepwhale-cn/dsh-ai-label-verify 的组合层
+- insert:
+    - id: ai-label-verify
+      name: '@deepwhale-cn/dsh-ai-label-verify'
